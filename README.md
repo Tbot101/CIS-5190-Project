@@ -2,6 +2,8 @@
 
 This 5190 Project looks at the [Amazon Fine Food Review Dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?datasetId=18&sortBy=voteCount)
 
+Some of the initial cells may need to be edited to work with the path to `cleaned_reviews.csv`
+
 The files in this repository are described as follows:
 
 ---------- BERT.ipynb ----------
